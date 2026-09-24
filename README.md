@@ -1,6 +1,6 @@
 # CAYR-COM — Smartphone Storefront
 
-Modern, responsive static catalog for **CAYR-COM**, built with HTML, CSS and JavaScript. Browse iPhone, Samsung Galaxy, Google Pixel, OnePlus, Xiaomi and Nothing devices. Includes 22 catalog entries, brand filters, search, price sorting, external product-photo links where available, reference pricing and an inquiry list.
+Premium-designed, responsive static catalog for **CAYR-COM**, built with HTML, CSS and JavaScript. Browse iPhone, Samsung Galaxy, Google Pixel, OnePlus, Xiaomi and Nothing devices. Includes 22 catalog entries, seven brand-specific filters, search, price sorting, product detail views, mobile navigation, FAQ, external product-photo links where available, reference pricing, and an inquiry list.
 
 ## Quick start
 
@@ -37,3 +37,11 @@ Edit product data in `js/products.js`, which is loaded directly by the page and 
 With owner `cayr-com` and repository `cayr-com-store.github.io`, the expected project address after publishing is `https://cayr-com.github.io/cayr-com-store.github.io/`. To use the short root domain, the repository must instead be called `cayr-com.github.io`.
 
 © 2026 CAYR-COM. All rights reserved.
+
+## CAYR-COM PRO updates
+
+- Refined product-card design, updated typography, gradient hero and dedicated feature ribbon.
+- Individual filters for iPhone, Samsung, Google Pixel, OnePlus, Xiaomi and Nothing.
+- Responsive mobile menu, product detail modal, FAQ, and a back-to-top button.
+- Accessibility improvements: accessible control names, keyboard support for the modal close action, reduced-motion support.
+- `CAYR-COM-PRO-preview.jpg` is provided separately for a visual example of the site.
